@@ -1,0 +1,20 @@
+# Birds CUB dataset
+#Path to the images folders
+images_path: 'cub2002011/CUB_200_2011/images/'
+
+#Paths To the .t7 format embeddings files
+embedding_path: 'cub_icml/'
+
+#Path to the text files containing class descriptions
+text_path: 'cub2002011/cvpr2016_cub/text_c10/'
+
+#Path to create the h5 file containing the dataset
+h5_file: 'birds.hdf5'
+
+#Path to the create the npz files containing the embeddings
+npz_path: 'Embeddings/'
+
+val_split_path: 'Splits/valclasses.txt'
+train_split_path: 'Splits/trainclasses.txt'
+test_split_path: 'Splits/testclasses.txt'
+dataset_path: '/content/Projet/birds.hdf5'
