@@ -16,6 +16,6 @@ You can find the paper here:
 [Paper Link](https://arxiv.org/pdf/1605.05396)
 
 
-![Project Illustration](images/result.png)
+![Project Illustration](network.png)
 
 ---
