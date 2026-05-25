@@ -22,4 +22,4 @@ You can find the paper here:
 ## References Repositories
 For the dataset and cls algorithm : https://github.com/snow-mn/GAN-INT-CLS
 
-For the Network : https://github.com/reedscot/icml2016/tree/master
+For the Network (Author): https://github.com/reedscot/icml2016
